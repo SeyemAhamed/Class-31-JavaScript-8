@@ -1,0 +1,20 @@
+
+
+===============Function=============
+
+function show (){
+    console.log('Hello wordl');
+}
+
+You have call function
+
+=============Take Input From Browser (User Input)=========
+
+1. getElementById
+2. getElementsByClass
+3. querySelector
+4. getElementByTagName
+
+
+Float = 3.2
+Integer = 49
